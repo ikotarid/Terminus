@@ -1,0 +1,46 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=Terminus
+qgisMinimumVersion=3.0
+description=Image Segmentation
+version=0.1
+author=Ioannis Kotaridis and Maria Lazaridou
+email=ikotarid@gmail.com
+
+about=A plugin to perform Image Segmentation.
+
+tracker=https://github.com/ikotarid/Terminus/issues
+repository=https://github.com/ikotarid/Terminus
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=yes
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=python, image segemntation, OBIA, Remote Sensing
+
+homepage=https://github.com/ikotarid/Terminus
+category=Analysis
+icon=icons\sat.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+plugin_dependencies=scikit-image
+
+Category of the plugin: Raster, Vector, Database or Web
+# category=
+
+# If the plugin can run on QGIS Server.
+server=False
