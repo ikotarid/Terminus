@@ -1,18 +1,19 @@
 # Terminus
-This plugin was developed on Open Source QGIS software, allowing users to implement Image Segmentation on Remote Sensing data.
+Terminus was developed on Open Source QGIS software. It is a fast and easy to use plugin that allows users to implement image segmentation on Remote Sensing data.
+Image segmentation is the initial and integral procedure to produce the fundamental elements of OBIA. It is about the partitioning of an image into spatially adjoining and homogenous regions (segments) that form the foundation for further analysis. Terminus includes four popular image segmentation algorithms: felzenszwalb, quickshift, slic and watershed.
 
 ![alt text](https://github.com/ikotarid/Terminus/blob/main/metadata_/plugin_documantation.jpg)
 
 ## Install requirements
-You will need to install (if note already installed):
+You will need to install (if not already installed):
 
 ***scikit-image*** open-source image processing library for Python programming language
 
-To install this Pyhton library, use OSGEO4W Shell.
-In specific, copy-paste these two lines:
+To install this Pyhton library, open OSGEO4W Shell.
+Then, copy-paste and execute these two lines:
 
-py3_env
+- [x] py3_env
 
-pip install scikitimage
+- [x] pip install scikit-image
 
 ![alt text](https://github.com/ikotarid/Terminus/blob/main/metadata_/osgeo4w.jpg)
