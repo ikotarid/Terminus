@@ -7,10 +7,10 @@ Image segmentation is the initial and integral procedure to produce the fundamen
 ## Install requirements
 You will need to install (if not already installed):
 
-***scikit-image*** open-source image processing library for Python programming language
+***scikit-image*** open-source image processing library for Python programming language.
 
 To install this Pyhton library, open OSGEO4W Shell.
-Then, copy-paste and execute these two lines:
+Then, copy-paste and execute these two lines as shown in image.
 
 - [x] py3_env
 
