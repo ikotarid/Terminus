@@ -10,7 +10,7 @@ You will need to install (if not already installed):
 ***Scikit-image*** open-source image processing library for Python programming language.
 
 To install this Pyhton library, open OSGEO4W Shell.
-Then, copy-paste and execute these two lines as shown in image.
+Then, copy-paste and execute the following two lines as shown in image.
 
 - [x] py3_env
 
