@@ -21,4 +21,4 @@ Then, copy-paste and execute the following two lines as shown in the image.
 Since image segmentation is a computationally expensive procedure, it is best to first work with a small subset of the study area to test the parameters' values you will use.
 Once the optimal parameters' values are determined, segmentation can be run on the full scene. After a successful image segmentation, either the vector file or the raster file can be used in an object-based classification approach.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikotarid&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikotarid&show_icons=true&theme=apprentice)
