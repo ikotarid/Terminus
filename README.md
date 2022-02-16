@@ -14,7 +14,7 @@ Then, copy-paste and execute the following two lines as shown in the image.
 
 - [x] py3_env
 
-- [x] pip install scikit-image / python3 -m pip install scikit-image
+- [x] pip install scikit-image  OR  python3 -m pip install scikit-image
 
 ![alt text](https://github.com/ikotarid/Terminus/blob/main/aux/osgeo4w.jpg)
 
