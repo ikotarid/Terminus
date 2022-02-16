@@ -1,5 +1,5 @@
 # Terminus
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikotarid)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikotarid&show_icons=true&theme=dark)
 
 Terminus was developed on Open Source QGIS software. It is a fast and easy to use plugin that allows users to implement image segmentation on Remote Sensing data.
 Image segmentation is the initial and integral procedure to produce the fundamental elements of OBIA. It is about the partitioning of an image into spatially adjoining and homogenous regions (segments) that form the foundation for further analysis. Terminus includes four popular image segmentation algorithms: felzenszwalb, quickshift, slic and watershed. Each algorithm produces two outputs, a vector file and a raster file. The plugin offers user the option to compute various statistics over each segment. If this is the case, these zonal statistics are included in the fields of the output vector file and a multiband raster file is created. This raster file contains the statistics of the pixels within each segment as the output bands, thus it can be displayed as a false color composite of choice.
