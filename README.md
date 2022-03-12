@@ -4,7 +4,6 @@ Image segmentation is the initial and integral procedure to produce the fundamen
 
 ![alt text](https://github.com/ikotarid/Terminus/blob/main/aux/doc.png)
 
-___
 ## Install requirements
 
 You will need to install (if not already installed):
