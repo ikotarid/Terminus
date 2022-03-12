@@ -27,6 +27,7 @@ Open `OSGeo4W Shell` installed with QGIS as `Administrator` and type:
 ```
 
 ![alt text](https://github.com/ikotarid/Terminus/blob/main/aux/osgeo4w.jpg)
+![alt text](https://github.com/ikotarid/Terminus/blob/main/aux/qgis_3.22.PNG)
 
 Since image segmentation is a computationally expensive procedure, it is best to first work with a small subset of the study area to test the parameters' values you will use.
 Once the optimal parameters' values are determined, segmentation can be run on the full scene. After a successful image segmentation, either the vector file or the raster file can be used in an object-based classification approach.
