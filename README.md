@@ -4,17 +4,27 @@ Image segmentation is the initial and integral procedure to produce the fundamen
 
 ![alt text](https://github.com/ikotarid/Terminus/blob/main/aux/doc.png)
 
+___
 ## Install requirements
+
 You will need to install (if not already installed):
 
 ***Scikit-image*** open-source image processing library for Python programming language.
 
-To install this Python library, open OSGEO4W Shell.
-Then, copy-paste and execute the following two lines as shown in the image.
+If you are using **QGIS 3.16**:
 
-- [x] py3_env
+Open `OSGeo4W Shell` installed with QGIS as `Administrator` and type:
+```sh
+ $ py3_env
+ $ pip install scikit-image
+```
 
-- [x] pip install scikit-image  OR  python3 -m pip install scikit-image
+If you are using **QGIS 3.22-3.24**:
+
+Open `OSGeo4W Shell` installed with QGIS as `Administrator` and type:
+```sh
+ $ pip install scikit-image==0.18.3
+```
 
 ![alt text](https://github.com/ikotarid/Terminus/blob/main/aux/osgeo4w.jpg)
 
