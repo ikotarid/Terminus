@@ -27,6 +27,9 @@ Open `OSGeo4W Shell` installed with QGIS as `Administrator` and type:
 ```
 
 ![alt text](https://github.com/ikotarid/Terminus/blob/main/aux/osgeo4w.jpg)
+
+___
+
 ![alt text](https://github.com/ikotarid/Terminus/blob/main/aux/qgis_3.22.PNG)
 
 Since image segmentation is a computationally expensive procedure, it is best to first work with a small subset of the study area to test the parameters' values you will use.
